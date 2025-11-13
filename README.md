@@ -102,7 +102,7 @@ eksctl create addon --name aws-ebs-csi-driver \
 ```
 ### 8. Clone the Repository
 ``` bash
- https://github.com/satheesh-kamadani/aws-eks-three-tier-app.git
+https://github.com/satheesh-kamadani/aws-eks-three-tier-app.git
 cd aws-eks-three-tier-app/EKS/helm
 ```
 ### 9. Deploy the Application
